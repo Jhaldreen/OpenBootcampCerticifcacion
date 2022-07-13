@@ -1,4 +1,6 @@
-public class Ejercicio3 {
+package Ejercicio3;
+
+public class Arrays {
     /**
      * En este ejercicio tenéis que crear un bucle que permita concatenar textos e imprima el resultado final por consola.
      *

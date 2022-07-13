@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9be9fabd-fbc5-4079-82ad-4e07f77b8a8b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio3/Arrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +38,9 @@
     "settings.editor.selected.configurable": "configurable.group.appearance"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ejercicio3">
-    <configuration name="Ejercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ejercicio3" />
+  <component name="RunManager" selected="Application.Arrays">
+    <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio3.Arrays" />
       <module name="OpenBootcampCerticifcacion" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,7 +74,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ejercicio3" />
+        <item itemvalue="Application.Arrays" />
         <item itemvalue="Application.funcionIVA" />
         <item itemvalue="Application.TiposVariable" />
       </list>
