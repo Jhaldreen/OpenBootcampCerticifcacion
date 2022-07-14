@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9be9fabd-fbc5-4079-82ad-4e07f77b8a8b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio3/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio4/SmartDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio4/SmartPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio4/SmartWatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,13 +39,29 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "configurable.group.appearance"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Arrays">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ejercicio3.Arrays" />
       <module name="OpenBootcampCerticifcacion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio4.Main" />
+      <module name="OpenBootcampCerticifcacion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicio4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -74,6 +94,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Arrays" />
         <item itemvalue="Application.funcionIVA" />
         <item itemvalue="Application.TiposVariable" />
